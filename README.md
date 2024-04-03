@@ -3,4 +3,5 @@
 
 ###### [*] Hack instagram accounts use bruteforce
 ###### [*] for more proxy - go to https://www.torvpn.com/en/proxy-list
-![alt tag](https://raw.githubusercontent.com/avramit/instahack/master/screenshot.jpg)
+
+[![H](https://github.com/hamidsss33/instahack/assets/109768539/7e6fe412-3a93-41d0-9a84-b6d7b3aa2408)](LinkNaSait)
